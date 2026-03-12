@@ -23,3 +23,8 @@ Period: 2025-2026
 ## Inspiration
 
 This project was inspired by the board presented in *FPGA-Based Neural Thrust Controller for UAVs* by Sharif Azem, David Scheunert, Mengguang Li, Jonas Gehrunger, Kai Cui, Christian Hochberger, and Heinz Koeppl (2024).
+
+## Related Repositories
+
+- FPGA accelerator implementation: https://github.com/A2R-Lab/ADMM_FPGA
+- Crazyflie firmware integration repository: https://github.com/A2R-Lab/crazyflie_fpga_firmware
