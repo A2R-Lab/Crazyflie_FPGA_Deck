@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "inductor")(type "KiCad")(uri "/home/user/kicad/library/inductor/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "s25")(type "KiCad")(uri "/home/user/kicad/library/S25/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ul")(type "KiCad")(uri "/home/user/kicad/library/ul/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "power_ic")(type "KiCad")(uri "/home/user/kicad/library/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
